@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+    padding: 0;
+}
+
+/*CABEÇALHO*/
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cabecalho{
+    background-color: #afddfb;
+}
+
+.imagem-logo {
+    width: 150px;
+    height: auto;
+}
+
+.links {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.links a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #1d1d1d;
+}
+
+/*SEÇÃO 1*/
+.titulo-destaque {
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.subtitulo {
+    font-size: 28px;
+    font-weight: normal;
+    color: #1c81c0;
+    margin-top: 0;
+}
+
+.imagem-assinatura {
+    width: 500px;
+    height: auto;
+}
+
+.paragrafo {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+.paragrafo span {
+    font-weight: bold;
+    color: #1d80c1;
+}
+
+/*SEÇÃO 2*/
+.secao-servicos {
+    background-color: #1d80c1;
+}
+
+.subtitulo-servico {
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.paragrafo-servico {
+    color: #ffffff;
+    line-height: 42px;
+    width: 700px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.paragrafo-servico span {
+    color: #fff81b;
+}
+
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto 40px;
+    color: #ffffff;
+    font-size: 22px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+    line-height: 42px;
+}
+
+.item-lista-servicos {
+    padding-bottom: 10px;
+}
+
+.ultimo-item {
+    padding-bottom: 100px;
+}
+
+/*SEÇÃO 3*/
+.subtitulo-corretores {
+    color: #1d80c1;
+    font-size: 28px;
+}
+
+.imagem-corretores {
+    width: 500px;
+    height: auto;
+}
+
+.paragrafo-corretores span {
+    color: #1d80c1;
+}
+
+/*SEÇÃO 4*/
+.secao-contato {
+    background-color: #1d80c1;
+}
+
+.subtitulo-contato {
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.paragrafo-contato {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.paragrafo-contato span {
+    color: #fff81b;
+}
+
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 1px 5px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
